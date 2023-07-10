@@ -1,6 +1,5 @@
 <nav>
-	<a href="/">home</a>
-        <a href="/api">api</a>
+        <a href="/api/users">api-users</a>
 
 
 </nav>
